@@ -1,0 +1,131 @@
+.headerContainer {
+  width: 100%;
+  margin-bottom: 50px;
+  position: relative;
+  animation: slideLeft 1s ease 0s 1 normal forwards;
+ 
+}
+
+.headerMobile {
+  width: 100%;
+  position: relative;
+
+}
+
+.nav-bar {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 40%);
+}
+
+.nav-mobile {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+
+
+#menu {
+    width: calc(1.25em + 1vw);
+    height: auto;
+}
+
+.nav-links {
+  text-decoration: none;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+  animation: fadeIn 3s ease 0s 1 normal forwards;
+}
+
+.dropChild {
+margin-top: 25px;
+margin-bottom: 15px;
+}
+
+
+.logo {
+position: absolute;
+top: 90%;
+left: 50%;
+width: 35%;
+transform: translate(-50%, -50%);
+animation: fadeIn 3s ease 0s 1 normal forwards;
+}
+
+.logoMobile {
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        width: 65%;
+        transform: translate(-50%, -50%);
+        animation: fadeIn 3s ease 0s 1 normal forwards;
+}
+
+.dropdown {
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+
+.cart {
+  max-width: 35px;
+  height: auto;
+  position: relative;
+}
+
+.orderNum {
+position: absolute;
+top: -14px;
+right: 20px;
+font-size: 19px;
+color: #f7ddb2;
+}
+
+.mobileNum {
+position: absolute;
+bottom: 8px;
+left: 33px;
+font-size: 19px;
+color: #f7ddb2;
+}
+
+.itemCount {
+position: absolute;
+  top: -35%;
+z-index: 1;
+left: 89.5%;
+font-size: 20px;
+}
+
+.hero {
+  width: 100%;
+  height: auto;
+  position: relative;
+
+}
+
+@keyframes slideLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-250px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

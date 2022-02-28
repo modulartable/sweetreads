@@ -1,0 +1,85 @@
+.cartContainer {
+margin-top: 100px;    
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+
+.cartMobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartItems {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background-color: white;
+  width: 350px;
+    height: auto;
+    box-sizing: border-box;
+    padding: 12px;
+    margin: 15px;
+}
+
+#clearAll {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: auto;
+    background-color: #fec6cb;
+height: 35px;
+font-size: 17px;
+}
+
+#clearAll:hover {
+background-color: red;
+}
+
+#deleteBtn {
+position: absolute;
+top: 0;
+right: 0;
+padding: 5px;
+}
+
+
+.contactContainer {
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+
+.contactFields {
+border-radius: 5px;
+height: 35px;
+width: auto;
+}
+
+.countContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    }
+
+.cartHeader {
+margin-top: 100px;
+text-align: center;
+font-family: 'Rock Salt', cursive;
+font-weight: 700;
+border-bottom: 2px solid black;
+border-width: 75%;
+}
+
+.totalHeader {
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+    font-weight: 700;
+}

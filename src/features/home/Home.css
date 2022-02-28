@@ -1,0 +1,84 @@
+.hero {
+  width: 100%;
+  height: 100%;
+}
+
+.heroDiv {
+  width: 100%;
+  position: relative;
+}
+
+.summaryContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: nowrap;
+}
+
+.summaryContainerMobile {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#orderBtn {
+  color: black;
+  background-color: #f7ddb2;
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 50px;
+  width: 150px;
+  font-family: "Rock Salt", cursive;
+  font-weight: 700;
+}
+
+#orderBtn:hover {
+  color: white;
+  background-color: #09cc66;
+}
+
+.summaryChild {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.summaryChildMobile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.heroText {
+  text-align: center;
+  color: black;
+  font-family: "Rock Salt", cursive;
+  font-weight: 700;
+  font-size: calc(0.86em + 1vw);
+  animation: fadeIn 3s ease 0s 1 normal forwards;
+}
+
+.heroTextMobile {
+  text-align: center;
+  color: black;
+  font-family: "Rock Salt", cursive;
+  font-weight: 700;
+  font-size: calc(1.5em + 1vw);
+  animation: fadeIn 3s ease 0s 1 normal forwards;
+}
+
+.homePhotos {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}

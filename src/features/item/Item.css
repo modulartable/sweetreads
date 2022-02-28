@@ -1,0 +1,40 @@
+.itemContainer {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 8px;
+background-color: white;
+width: 350px;
+height: auto;
+box-sizing: border-box;
+padding: 12px;
+}
+
+
+.countContainer {
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+
+.buttons {
+    border: 2px solid black;
+    border-radius: 5px;
+background-color: #fec6cb;
+width: auto;
+height: 35px;
+font-size: 17px;
+
+}
+
+.buttons:hover {
+    color: white;
+    background-color: #09cc66;
+}
+
+.itemName {
+    font-family: "Rock Salt", cursive;
+    font-weight: 700;
+}
