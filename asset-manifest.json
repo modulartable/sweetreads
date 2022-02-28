@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sweetreads/static/css/main.89b31321.css",
+    "main.js": "/sweetreads/static/js/main.d8857275.js",
+    "static/js/787.651d5891.chunk.js": "/sweetreads/static/js/787.651d5891.chunk.js",
+    "static/media/bakeryhero.svg": "/sweetreads/static/media/bakeryhero.089ffe77fb71c44282c7af2a7c50ece1.svg",
+    "static/media/bakery2.jpg": "/sweetreads/static/media/bakery2.f0f79c646a7f933f148a.jpg",
+    "static/media/downtown.jpg": "/sweetreads/static/media/downtown.c365174101cfa5083b44.jpg",
+    "static/media/libraryworker.jpg": "/sweetreads/static/media/libraryworker.ad6f5bee63dd7468e9fa.jpg",
+    "static/media/crew.jpg": "/sweetreads/static/media/crew.a337aed5f85ae2ab4994.jpg",
+    "static/media/bookstore.jpg": "/sweetreads/static/media/bookstore.9d0cced415a664a6416a.jpg",
+    "static/media/decoratingcookies.jpg": "/sweetreads/static/media/decoratingcookies.7389515108d044fa5a9a.jpg",
+    "static/media/pexels-bakery.jpg": "/sweetreads/static/media/pexels-bakery.26ee0331f7aac32d4693.jpg",
+    "static/media/order.svg": "/sweetreads/static/media/order.3474304744cdc587fe70cf63bb689ec3.svg",
+    "static/media/pexels-bakery-mobile.jpg": "/sweetreads/static/media/pexels-bakery-mobile.b6d8f83ad0d8060431ff.jpg",
+    "static/media/sweetreadslogov1.png": "/sweetreads/static/media/sweetreadslogov1.c76684fac930b372bfc0.png",
+    "static/media/instagram.png": "/sweetreads/static/media/instagram.15d77dca0ebcbb9aa0d5.png",
+    "static/media/twitter.png": "/sweetreads/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/youtube.png": "/sweetreads/static/media/youtube.578d8487aa31987c02ef.png",
+    "static/media/menu.png": "/sweetreads/static/media/menu.0f4c5305f4a3dc59b86e.png",
+    "static/media/facebook.png": "/sweetreads/static/media/facebook.a5def58db1e9c1b38269.png",
+    "static/media/shopping-cart.png": "/sweetreads/static/media/shopping-cart.4dfdcca48d4b3290afd4.png",
+    "index.html": "/sweetreads/index.html",
+    "main.89b31321.css.map": "/sweetreads/static/css/main.89b31321.css.map",
+    "main.d8857275.js.map": "/sweetreads/static/js/main.d8857275.js.map",
+    "787.651d5891.chunk.js.map": "/sweetreads/static/js/787.651d5891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b31321.css",
+    "static/js/main.d8857275.js"
+  ]
+}
